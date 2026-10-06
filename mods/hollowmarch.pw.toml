@@ -1,0 +1,13 @@
+name = "Hollowmarch"
+filename = "hollowmarch-1.3.0-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Umz3GfAQ/versions/nzAPF4pb/hollowmarch-1.3.0-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "46bc51b310646a07a806160403b9121f91d8e2027e1aad91ec70e64b6f926d26c76136592631e7e7a2a9ea097ece781a15fb8a301ff556ed561ada676d2face6"
+
+[update]
+[update.modrinth]
+mod-id = "Umz3GfAQ"
+version = "nzAPF4pb"

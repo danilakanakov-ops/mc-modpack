@@ -1,0 +1,13 @@
+name = "Item Stat Tracker"
+filename = "itemstats-1.1.1+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ow5rRJYD/versions/chXrJrFD/itemstats-1.1.1%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4a2db8a28df6ab02c295357c2e30640e59089da605af0440dc9cb8d38f03a9dd039820180051ae7fc95fedfddefa7139266266d9d525355be16a9f812709fef2"
+
+[update]
+[update.modrinth]
+mod-id = "ow5rRJYD"
+version = "chXrJrFD"
